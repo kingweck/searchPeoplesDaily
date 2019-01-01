@@ -1,6 +1,9 @@
 # searchPeoplesDaily
 Search for query terms in People's Daily
 
+searchPD.m contains syntax for different kind of searches: headline/text/front-page/all pages etc.
+searchPD_OR.m does OR gates
+
 For historical headline data: 
 
 crawl_headlines.m crawls through http://data.people.com.cn/rmrb/ site for all historical headlines
